@@ -1,0 +1,12 @@
+{
+  "name": "social-approval-bot",
+  "version": "1.0.0",
+  "description": "Telegram webhook server for social media content approval",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
