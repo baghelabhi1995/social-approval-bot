@@ -4,9 +4,11 @@
   "description": "Telegram webhook server for social media content approval",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "build": "echo 'No build step needed'"
   },
   "engines": {
-    "node": ">=18.0.0"
+    "node": "18.x",
+    "npm": ">=8.0.0"
   }
 }
